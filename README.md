@@ -133,7 +133,12 @@ YT_Transcripter/
                                       |  Display Summary   |
                                       |  in Streamlit App  |
                                       +--------------------+
+## Video Demo
   
+
+https://github.com/Bhaskar-10/YT_Transcripter/assets/116245937/e93e6388-95ef-4afd-b3a4-c469f5be8a13
+
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
